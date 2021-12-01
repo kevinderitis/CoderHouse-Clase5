@@ -1,0 +1,18 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "random": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mathClass": "node ej2.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
